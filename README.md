@@ -11,7 +11,7 @@ Neste jupyter notebook mostro passo a passo como obter latitude e longitude de e
 
 ## Geopandas
 Neste jupyter notebook mostro passo a passo como obter latitude e longitude de endereços usando Python e a biblioteca geopandas. É possível também realizar o inverso, ou seja, através das coordenadas latitude e longitude pode obter o endereço completo.
-👉 Assista ao vídeo completo aqui: 
+👉 Assista ao vídeo completo aqui: https://youtu.be/_u9Y_KJZulE
 
 
 
