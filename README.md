@@ -18,4 +18,4 @@ Neste jupyter notebook mostro passo a passo como obter latitude e longitude de e
 
 Exportar os dados de um DataFrame para um arquivo KML (Keyhole Markup Language) abre um mundo de possibilidades. 🌍 Você poderia abrir e visualizá-los no Google Earth ou em aplicativos similares.
 No jupyter notebook df_to_kml mostro como exportar os dados de um DataFrame para arquivo .kml. Assista ao vídeo e veja como os dados são exibidos no Google Earth.
-👉 Assista ao vídeo completo aqui: 
+👉 Assista ao vídeo completo aqui: https://youtu.be/xqBvFYui2Co
