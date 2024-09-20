@@ -34,4 +34,4 @@ Comente nesta [publicação no LinkedIn](https://www.linkedin.com/posts/flaviocl
 Quando o código se encontra com a geografia, criamos pontes entre dados e decisões. É incrível ver como ferramentas como Folium podem nos ajudar a visualizar o mundo de maneiras mais interativas e conectadas. Bora transformar dados em mapas que fazem a diferença? É mais fácil do que parece! Deixe-me mostrar como isso funciona - seus dados nunca mais serão os mesmos.
 Neste script python veja como exportar dados de um DataFrame em um mapa interativo como arquivo HTML para compartilhar com qualquer pessoa.
 Já imaginou o que você poderia criar com essa ferramenta? Vamos conversar, deixe um comentário nesta publicação no LinkedIn e vamos explorar juntos novas possibilidades.
-👉 Assista ao vídeo completo aqui: https://youtu.be/e6Vi9LEy2ws
+👉 Assista ao vídeo completo aqui: https://youtu.be/3yyUhC-Bowg
