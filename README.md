@@ -9,6 +9,11 @@ Neste jupyter notebook mostro passo a passo como obter latitude e longitude de e
 Como você usaria essa habilidade no seu negócio ou projeto? Estou ansioso para ler suas ideias criativas! 💡Comente nesta [publicação no LinkedIn](https://pt.linkedin.com/posts/flavioclobo_python-geocodingpython-geopy-activity-7230888641286275072-tmxG). \
 👉 Assista ao vídeo completo aqui: https://youtu.be/YWrmpNSpV6E
 
+## Calcular a distância entre pontos geográficos
+Sabia que com apenas algumas linhas de código você pode calcular a distância entre dois pontos e até calcular a rota mais curta entre cidades inteiras? Veja neste jupyter notebook como isso é possível com poucas linhas de código. \
+Um projeto envolvendo estas funções pode ser utilizado em vários campos de atuação, como marketing, logística, planejamento urbano, entre outros. Teve alguma ideia interessante? Compartilhe nos comentários desta publicação no LinkedIn. \
+👉 Assista ao vídeo completo aqui: 
+
 ## Geopandas
 Neste jupyter notebook mostro passo a passo como obter latitude e longitude de endereços usando Python e a biblioteca geopandas. É possível também realizar o inverso, ou seja, através das coordenadas latitude e longitude pode obter o endereço completo. \
 Comente nesta [publicação no LinkedIn](https://pt.linkedin.com/posts/flavioclobo_python-geocodingpython-geopy-activity-7233051273145577472-5hYa) se você já conhecia esse pacote do python. \
