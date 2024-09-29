@@ -11,8 +11,8 @@ Como você usaria essa habilidade no seu negócio ou projeto? Estou ansioso para
 
 ## Calcular a distância entre pontos geográficos
 Sabia que com apenas algumas linhas de código você pode calcular a distância entre dois pontos e até calcular a rota mais curta entre cidades inteiras? Veja neste jupyter notebook como isso é possível com poucas linhas de código. \
-Um projeto envolvendo estas funções pode ser utilizado em vários campos de atuação, como marketing, logística, planejamento urbano, entre outros. Teve alguma ideia interessante? Compartilhe nos comentários desta publicação no LinkedIn. \
-👉 Assista ao vídeo completo aqui: 
+Um projeto envolvendo estas funções pode ser utilizado em vários campos de atuação, como marketing, logística, planejamento urbano, entre outros. Teve alguma ideia interessante? Compartilhe nos comentários desta [publicação no LinkedIn](https://www.linkedin.com/posts/flavioclobo_geopy-python-geocodingpython-activity-7246105042275995648-MyNR). \
+👉 Assista ao vídeo completo aqui: https://youtu.be/LjN6-7XgQnw
 
 ## Geopandas
 Neste jupyter notebook mostro passo a passo como obter latitude e longitude de endereços usando Python e a biblioteca geopandas. É possível também realizar o inverso, ou seja, através das coordenadas latitude e longitude pode obter o endereço completo. \
