@@ -38,5 +38,9 @@ Comente nesta [publicação no LinkedIn](https://www.linkedin.com/posts/flaviocl
 # Exporte seus dados de um DataFrame para um mapa interativo.
 Quando o código se encontra com a geografia, criamos pontes entre dados e decisões. É incrível ver como ferramentas como Folium podem nos ajudar a visualizar o mundo de maneiras mais interativas e conectadas. Bora transformar dados em mapas que fazem a diferença? É mais fácil do que parece! Deixe-me mostrar como isso funciona - seus dados nunca mais serão os mesmos.
 Neste script python veja como exportar dados de um DataFrame em um mapa interativo como arquivo HTML para compartilhar com qualquer pessoa.
-Já imaginou o que você poderia criar com essa ferramenta? Vamos conversar, deixe um comentário nesta [publicação no LinkedIn](https://www.linkedin.com/posts/flavioclobo_folium-geospatialdata-mapasinterativos-activity-7243193820698333184-gK0g) e vamos explorar juntos novas possibilidades.
+Já imaginou o que você poderia criar com essa ferramenta? Vamos conversar, deixe um comentário nesta [publicação no LinkedIn](https://www.linkedin.com/posts/flavioclobo_folium-geospatialdata-mapasinterativos-activity-7243193820698333184-gK0g) e vamos explorar juntos novas possibilidades. \
 👉 Assista ao vídeo completo aqui: https://youtu.be/vsUplKI9Sno
+
+# Altere a cor de elementos de uma imagem svg.
+Você sabia que pode abrir um arquivo SVG como texto? Consegue imaginar os profissionais de design perdendo horas preciosas alterando manualmente as cores de imagens SVG?😱 Uma tarefa aparentemente complexa pode ser resolvida de forma simples e rápida com Python. Prepare-se para ter sua percepção sobre manipulação de imagens ampliada. Quem diria que um script python poderia ser o novo artista gráfico da empresa? 🤣 Compartilhando este conhecimento, espero inspirar outros desenvolvedores a criar projetos incríveis e coloridos. Deixe um comentário nesta [publicação no LinkedIn](). \
+👉 Assista ao vídeo completo aqui: https://youtu.be/a9yuizOsDvA
